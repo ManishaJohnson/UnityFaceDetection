@@ -1,5 +1,5 @@
 # UnityFaceDetection
-Face Detection Code using Unity in C# language
+Face Detection Code using Unity in C# language and OpenCVSharp Library
 
 
 
